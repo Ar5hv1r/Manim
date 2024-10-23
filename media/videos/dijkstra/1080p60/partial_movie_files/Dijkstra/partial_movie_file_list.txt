@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/3977891868_123554531_631829896.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/3977891868_1099446589_4131132508.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1704852926_103054244.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_2988907571_1074678063.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1704852926_156744019.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1860758251_3943020529.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1704852926_1509510877.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_3282093463_2112430290.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1704852926_3721585350.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_644805714_4164840607.mp4'
+file 'file:C:/Users/arshv/Documents/Manim/media/videos/dijkstra/1080p60/partial_movie_files/Dijkstra/2852726489_1704852926_3163616746.mp4'
